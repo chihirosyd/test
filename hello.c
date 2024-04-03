@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main() {
-    printf("最开始\n");
+    printf("来自分支\n");
     return 0;
 }
