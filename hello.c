@@ -1,7 +1,8 @@
 #include <stdio.h>
 
 int main() {
-    printf("第一次!\n");
+    printf("来自分支\n");
+    printf("Hello, world!\n");
     printf("Hello, world!\n");
     return 0;
 }
